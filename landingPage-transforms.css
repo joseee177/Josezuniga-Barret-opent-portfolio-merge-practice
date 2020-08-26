@@ -1,0 +1,17 @@
+.clearfix{
+  background-color: cadetblue;
+  font-size: large;
+  font-weight: bold;
+}
+.First{
+  font: 40px;
+  color: aquamarine;
+
+}
+.First:hover{
+  transform: scale(1.5);
+}
+.Second:hover{
+  transform: rotate3d(1.8);
+
+}
